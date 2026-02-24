@@ -41,6 +41,8 @@ If the app shows **CPU** but you have an NVIDIA GPU, PyTorch was likely installe
 
 ## Usage
 
+![screen.jpg](screen.jpg)
+
 1. Open the app in your browser.
 2. Drag and drop an audio file (or click to choose). Supported formats: MP3, WAV, M4A, WebM, OGG, FLAC, etc.
 3. Click **Transcribe**. Processing may take a minute depending on length and your machine.
